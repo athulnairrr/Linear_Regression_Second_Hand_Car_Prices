@@ -1,7 +1,7 @@
 # Linear_Regression_Second_Hand_Car_Prices
 Dataset: https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
 
-#**Steps taken into consideration when making this Project**
+# Steps taken into consideration when making this Project
 
 1.**Linear Regression Project:**
 Started with a discussion on a linear regression project.
